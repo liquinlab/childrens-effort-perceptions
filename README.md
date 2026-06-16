@@ -1,7 +1,7 @@
 Image credits to flaticon.com:
-      <a href="https://www.flaticon.com/free-icons/hi" title="hi icons">Hi icons created by Freepik - Flaticon</a>
+      <a href="https://www.flaticon.com/free-icons/hi" title="hi icons">Hi icons created by Freepik - Flaticon</a> 
   
-      <a href="https://www.flaticon.com/free-icons/correct" title="correct icons">Correct icons created by Aldo Cervantes - Flaticon</a>
+      <a href="https://www.flaticon.com/free-icons/correct" title="correct icons">Correct icons created by Aldo Cervantes - Flaticon</a> 
       
       <a href="https://www.flaticon.com/free-icons/drawing" title="drawing icons">Drawing icons created by Freepik - Flaticon</a>
       
