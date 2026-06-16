@@ -25,9 +25,6 @@ Image credits to flaticon.com:
       <a href="https://www.flaticon.com/free-icons/pig" title="pig icons">Pig icons created by Freepik - Flaticon</a>
       <a href="https://www.flaticon.com/free-icons/goat" title="goat icons">Goat icons created by photo3idea_studio - Flaticon</a>
       <a href="https://www.flaticon.com/free-icons/koala" title="koala icons">Koala icons created by Freepik - Flaticon</a>
-      
       <a href="https://www.flaticon.com/free-icons/lion" title="lion icons">Lion icons created by Aranagraphics - Flaticon</a>
-      
       <a href="https://www.flaticon.com/free-icons/dolphin" title="dolphin icons">Dolphin icons created by Freepik - Flaticon</a>
-      
       <a href="https://www.flaticon.com/free-icons/children" title="children icons">Children icons created by Freepik - Flaticon</a>
